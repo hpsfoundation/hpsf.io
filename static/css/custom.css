@@ -1,0 +1,14 @@
+img[src$='#logo'] {
+    height: 64px;
+    margin: 10px;
+    float: left;
+    backgrond: #ffffff;
+}
+
+div.post-holder {
+overflow: hidden;
+}
+
+div.logos {
+overflow: hidden;
+}
