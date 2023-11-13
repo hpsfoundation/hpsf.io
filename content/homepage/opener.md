@@ -9,6 +9,8 @@ aims to build, promote, and advance a portable software stack for high performan
 computing (HPC) by increasing adoption, lowering barriers to contribution, and
 supporting development efforts.
 
+* [Linux Foundation press release](https://www.linuxfoundation.org/press/linux-foundation-announces-intent-to-form-high-performance-software-foundation-hpsf)
+
 HPSF is currently in the formation stage, and welcomes organizations from across the HPC
 ecosystem to get involved and help drive innovation in open source HPC solutions.
 
