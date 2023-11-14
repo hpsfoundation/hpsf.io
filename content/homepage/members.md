@@ -16,6 +16,7 @@ header_menu: true
 ![Oak Ridge National Laboratory](../images/members/ornl.png#logo)
 ![Los Alamos National Laboratory](../images/members/lanl.png#logo)
 ![Lawrence Berkeley National Laboratory](../images/members/lbl.png#logo)
+![Kitware](../images/members/kitware.png#logo)
 ![CIQ](../images/members/ciq.png#logo)
 ![University of Oregon](../images/members/oregon.png#logo)
 {{% /logos %}}
