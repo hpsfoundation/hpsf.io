@@ -12,3 +12,11 @@ overflow: hidden;
 div.logos {
 overflow: hidden;
 }
+
+a {
+  color: #4383d9;
+}
+
+div.dark a {
+  color: #c6e6fd;
+}
