@@ -1,26 +1,23 @@
 ---
-title: "Welcome"
+title: "HPSF has Launched!"
 weight: 1
+header_menu: true
 ---
 
-The Linux Foundation announced the intention to form the High Performance Software
-Foundation (HPSF) on November 13, 2023. Through a series of technical projects, HPSF
-aims to build, promote, and advance a portable software stack for high performance
-computing (HPC) by increasing adoption, lowering barriers to contribution, and
-supporting development efforts.
+High Performance Software Foundation (HPSF) is an open-source, vendor neutral hub for
+high performance software projects, working groups, events, and training. HPSF aims to
+build, promote, and advance a portable software stack for high performance computing
+(HPC) by increasing adoption, lowering barriers to contribution, and supporting
+development efforts. Our focus is on providing projects with the resources and
+connections they need to bring their projects to maturity and to increase usage across
+HPC, AI, scientific software, security, and other communities.
 
-* [Linux Foundation press release](https://www.linuxfoundation.org/press/linux-foundation-announces-intent-to-form-high-performance-software-foundation-hpsf)
+The Linux Foundation announced the intention to form the HPSF on November 13, 2023. From
+January to May, 2024, HPSF founding members and projects met to establish a founding
+charter and an initial directed fund. With that work now complete, HPSF launched at
+[ISC-HPC 2024](https://app.swapcard.com/event/isc-high-performance-2024/planning/UGxhbm5pbmdfMTgyNjc4NA==).
 
-HPSF is currently in the formation stage, and welcomes organizations from across the HPC
-ecosystem to get involved and help drive innovation in open source HPC solutions.
-
-Our timeline for fomation is as follows:
-
-* **2023 Nov 13**: Intent-to-form announcement at DOE booth at SC23.
-* **2023 Nov 14**: In-person meeting at SC23.
-* **2023 Nov - Early 2024** Meetings with initial members to agree on foundation
-  structure & governance; Recruit more initial members and projects
-* **May 2024**: Official formation of HPSF
-
-Details on the SC23 meetings are below.
-
+The initial HPSF Governing Board (GB) will begin to bootstrap
+[HPSF governance](http://github.com/hpsfoundation/foundation) in May, filling elected
+seats and establishing an initial Technical Advisory Committee (TAC). Soon after, HPSF
+will establish initial technical working groups, activities, and events.

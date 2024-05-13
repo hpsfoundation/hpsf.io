@@ -21,7 +21,8 @@ Working groups are crosscutting activities, bringing projects, members, and othe
 technical contributors together around activities that benefit the ecosystem.
 
 You can find more information on the working groups and collaboration model in our
-[proposal deck](https://docs.google.com/presentation/d/147ksfTMvub_l2iFBd4TlANRVjUCGLwtB2CIaAkH_2bs/edit#slide=id.g28c1220829c_0771).
+[launch deck](https://docs.google.com/presentation/d/1ZZBL9bSPNk2m23e7SffTWixTtyZxq0vo/edit#slide=id.p1).
 
-We will be posting draft governance documents and meeting information on our
-[GitHub organization](https://github.com/hpsfoundation) soon. Stay tuned!
+Governance documents are in our
+[governance repo on GitHub](https://github.com/hpsfoundation/foundation), including the
+[HPSF Charter](https://github.com/hpsfoundation/foundation/blob/main/charter.md).

@@ -10,7 +10,7 @@ header_logo: "images/hpsf-logo.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 #header_headline: "Welcome!"
-header_subheadline: "<br/>Announcing our intent to form HPSF."
+header_subheadline: "<br/>Launched May 13, 2024."
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

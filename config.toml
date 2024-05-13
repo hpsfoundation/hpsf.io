@@ -38,11 +38,11 @@ title = "HPSF"
     title = "High Performance Software Foundation"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "High Performance Software Foundation intent to form announcement"
+    description = "High Performance Software Foundation"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    #copyright = "© 2023 Linux Foundation"
+    copyright = 'Copyright © 2024 The Linux Foundation®. All rights reserved. <br/>The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our <a href="https://www.linuxfoundation.org/legal/trademark-usage">Trademark Usage</a> page. Linux is a registered trademark of Linus Torvalds. <a href="https://www.linuxfoundation.org/legal/privacy-policy">Privacy Policy</a> and <a href="https://www.linuxfoundation.org/legal/terms">Terms of Use</a>.'
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
@@ -50,7 +50,7 @@ title = "HPSF"
 
     # The sections of the home page alternate styling. Mark invert as true to swap the styling of the sections
     invertSectionColors = false
-    
+
     [params.meta]
         keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
 

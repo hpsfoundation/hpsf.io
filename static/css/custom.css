@@ -1,3 +1,22 @@
+img[src$='#premier'] {
+    height: 72px;
+    padding: 20px;
+    float: left;
+    backgrond: #ffffff;
+}
+img[src$='#general'] {
+    height: 42px;
+    margin: 20px;
+    float: left;
+    backgrond: #ffffff;
+}
+img[src$='#associate'] {
+    height: 32px;
+    margin: 20px;
+    float: left;
+    backgrond: #ffffff;
+}
+
 img[src$='#logo'] {
     height: 64px;
     margin: 10px;

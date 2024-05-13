@@ -5,14 +5,10 @@ header_menu: true
 ---
 
 {{% logos %}}
-![Spack](../images/projects/spack.png#logo)
-![Kokkos](../images/projects/kokkos.png#logo)
-![WarpX](../images/projects/warpx.png#logo)
-![AMReX](../images/projects/amrex.png#logo)
-![Apptainer](../images/projects/apptainer.png#logo)
-![Trilinos](../images/projects/trilinos.jpg#logo)
-![VTK-m](../images/projects/vtk-m.png#logo)
-![HPCToolkit](../images/projects/hpctoolkit.png#logo)
-![E4S](../images/projects/e4s.png#logo)
-![Charliecloud](../images/projects/charliecloud.png#logo)
+[![Spack](../images/projects/spack.png#logo)](http://spack.io)
+[![Kokkos](../images/projects/kokkos.png#logo)](https://kokkos.org)
+[![Apptainer](../images/projects/apptainer.png#logo)](https://apptainer.org)
+[![Viskores](../images/projects/viskores.png#logo)](https://github.com/Viskores/viskores)
+[![HPCToolkit](../images/projects/hpctoolkit.png#logo)](https://hpctoolkit.org)
+[![E4S](../images/projects/e4s.png#logo)](https://e4s.io)
 {{% /logos %}}
