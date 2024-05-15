@@ -10,6 +10,12 @@ img[src$='#general'] {
     float: left;
     backgrond: #ffffff;
 }
+img[src$='#general-larger'] {
+    height: 58px;
+    margin: 20px;
+    float: left;
+    backgrond: #ffffff;
+}
 img[src$='#associate'] {
     height: 32px;
     margin: 20px;

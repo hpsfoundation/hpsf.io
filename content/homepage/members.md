@@ -21,6 +21,7 @@ header_menu: true
 ![Oak Ridge National Laboratory](../images/members/ornl.png#general)
 ![Los Alamos National Laboratory](../images/members/lanl.png#general)
 ![Kitware](../images/members/kitware.png#general)
+![CEA](../images/members/cea.png#general-larger)
 {{% /logos %}}
 
 
