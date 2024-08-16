@@ -10,7 +10,8 @@ header_menu: true
 [![Amrex](../images/projects/amrex.png#logo)](https://amrex-codes.github.io/amrex/)
 [![WarpX](../images/projects/warpx.png#logo)](https://ecp-warpx.github.io)
 [![Viskores](../images/projects/viskores.png#logo)](https://github.com/Viskores/viskores)
-[![Apptainer](../images/projects/apptainer.png#logo)](https://apptainer.org)
 [![HPCToolkit](../images/projects/hpctoolkit.png#logo)](https://hpctoolkit.org)
+[![Charliecloud](../images/projects/charliecloud.png#logo)](https://e4s.io)
 [![E4S](../images/projects/e4s.png#logo)](https://e4s.io)
+[![Apptainer](../images/projects/apptainer.png#logo)](https://apptainer.org)
 {{% /logos %}}
