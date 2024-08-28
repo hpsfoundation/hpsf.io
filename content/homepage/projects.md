@@ -14,4 +14,5 @@ header_menu: true
 [![Charliecloud](../images/projects/charliecloud.png#logo)](https://e4s.io)
 [![E4S](../images/projects/e4s.png#logo)](https://e4s.io)
 [![Apptainer](../images/projects/apptainer.png#logo)](https://apptainer.org)
+[![Trilinos](../images/projects/trilinos.jpg#logo)](https://trilinos.github.io)
 {{% /logos %}}
