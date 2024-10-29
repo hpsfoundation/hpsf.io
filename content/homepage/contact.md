@@ -14,4 +14,4 @@ We are in the process of setting up mailing lists, but for now, for questions on
 membership or project onboarding, contact:
 
 * {{<icon class="fa fa-envelope">}} Todd&nbsp;Gamblin&nbsp;[tgamblin@llnl.gov](mailto:tgamblin@llnl.gov) and
-* {{<icon class="fa fa-envelope">}} Christian&nbsp;Trott&nbsp;[crtrott@sandia.gov](mailto:@crtrott@sandia.gov).
+* {{<icon class="fa fa-envelope">}} Christian&nbsp;Trott&nbsp;[crtrott@sandia.gov](mailto:crtrott@sandia.gov).
